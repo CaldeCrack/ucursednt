@@ -244,3 +244,20 @@ Se agrega un sistema de logros por hacer cada una de las funciones de la extensi
 4. Click en "Load unpacked" (Cargar extensión sin empaquetar), luego seleccionar la carpeta clonada de la extensión (U-Cursedn't).
 
 5. La extensión debería cargarse y aparecer en la lista de extensiones instaladas.
+
+## Firefox
+
+> Tutorial pendiente.
+
+1. Clonar el repositorio desde GitHub:
+   ```
+   git clone https://github.com/matias-saavedra-g/ucursednt.git
+   ```
+
+2. Abrir Firefox y navegar a `about:addons`.
+
+3. Click en ícono de configuración (Tools for all add-ons).
+
+4. Click en "Install Add-on From File..." (Instalar add-on desde archivo), luego seleccionar el archivo `build/u-cursedn_t-3.7.zip`.
+
+5. La extensión debería cargarse y aparecer en la lista de extensiones instaladas.
