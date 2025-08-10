@@ -4,6 +4,11 @@
   "description": "Esta extensión agrega funciones adicionales a la plataforma de U-Cursos y respectivos logros por hacer cada una de ellas.",
   "manifest_version": 3,
   "author": "matias-saavedra-g",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "some@example.com"
+    }
+  },
   "permissions": [
     "activeTab",
     "clipboardWrite"
